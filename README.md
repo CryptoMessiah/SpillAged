@@ -1,2 +1,16 @@
-# SpillAged
-SpillAged is a mobile application that was designed to allow users to report water leakages they come across on the streets on a daily basis in their living environments. The aim is to help communities become water smart agents and reduce the leak impacts caused by pipelines on the streets.
+# spillaged
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
